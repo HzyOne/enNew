@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    background: #f0f2f5;
+}
+
+#root{
+    height: 100%;
+}
+
+.header{
+    background: #fff;
+    border-bottom: 1px solid #999;
+}
+
+.content{
+    min-height: 550px;
+    border-bottom: 1px solid #999;
+    margin: 10px;
+}
+
+.footer{
+    text-align: center;
+}
